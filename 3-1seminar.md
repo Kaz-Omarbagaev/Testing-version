@@ -1,0 +1,7 @@
+# Video 
+
+[![картинка Видео ](https://avatars.mds.yandex.net/i?id=fea28237a2fde128eac46b81cedd3680-7054193-images-thumbs&n=13)](https://www.youtube.com/watch?v=84hKIkOf3Bw)
+
+ # Эмодзи 
+ 
+ :smile:
